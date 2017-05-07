@@ -1,0 +1,17 @@
+
+.weather-dashboard{
+  background-color: white;
+}
+h1, .city, .temp_wraper, .weather-wraper{
+  color: black;
+  text-align: center;
+}
+.weather-dashboard {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.temp_wraper, .weather-wraper, .btn-group-wraper {
+  padding: 25px;
+  font-size: 1.6em;
+}
